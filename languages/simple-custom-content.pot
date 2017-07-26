@@ -1,0 +1,246 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Custom Content\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-21 19:14+0000\n"
+"POT-Revision-Date: Mon Aug 15 2016 09:19:11 GMT-0700 (PDT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: simple-custom-content.php:40
+msgid "requires WordPress "
+msgstr ""
+
+#: simple-custom-content.php:40
+msgid " or higher, and has been deactivated!"
+msgstr ""
+
+#: simple-custom-content.php:41
+msgid "Please upgrade WordPress and try again. Return to the"
+msgstr ""
+
+#: simple-custom-content.php:41
+msgid "WordPress Admin area"
+msgstr ""
+
+#: simple-custom-content.php:176
+msgid "Settings"
+msgstr ""
+
+#: simple-custom-content.php:187
+msgid "Give us a 5-star rating at WordPress.org"
+msgstr ""
+
+#: simple-custom-content.php:188
+msgid "Rate this plugin"
+msgstr ""
+
+#. Name of the plugin
+#: simple-custom-content.php:408
+msgid "Simple Custom Content"
+msgstr ""
+
+#: simple-custom-content.php:409
+msgid "Toggle all panels"
+msgstr ""
+
+#: simple-custom-content.php:417
+msgid "Overview"
+msgstr ""
+
+#: simple-custom-content.php:421
+msgid "makes it easy to add custom content in your posts and feeds."
+msgstr ""
+
+#: simple-custom-content.php:422
+msgid ""
+"You can add content to all posts, all feeds, or both. You can also use "
+"shortcodes to include custom content in specific posts."
+msgstr ""
+
+#: simple-custom-content.php:425 simple-custom-content.php:438
+msgid "Automatic Custom Content"
+msgstr ""
+
+#: simple-custom-content.php:426 simple-custom-content.php:513
+msgid "Post-Specific Custom Content"
+msgstr ""
+
+#: simple-custom-content.php:427 simple-custom-content.php:572
+msgid "Plugin Homepage"
+msgstr ""
+
+#: simple-custom-content.php:430
+msgid "If you like this plugin, please"
+msgstr ""
+
+#: simple-custom-content.php:431
+msgid "THANK YOU for your support!"
+msgstr ""
+
+#: simple-custom-content.php:431
+msgid "give it a 5-star rating"
+msgstr ""
+
+#: simple-custom-content.php:441
+msgid ""
+"In this section you can add custom content that will be displayed "
+"automatically in all WP Posts and/or RSS Feeds. Check out the"
+msgstr ""
+
+#: simple-custom-content.php:442 simple-custom-content.php:517
+msgid "plugin documentation"
+msgstr ""
+
+#: simple-custom-content.php:443 simple-custom-content.php:517
+msgid "for more information."
+msgstr ""
+
+#: simple-custom-content.php:446
+msgid "WP Posts"
+msgstr ""
+
+#: simple-custom-content.php:447
+msgid "Add some custom content for your posts. You may use text and markup."
+msgstr ""
+
+#: simple-custom-content.php:450 simple-custom-content.php:485
+msgid "Where should this custom content be displayed?"
+msgstr ""
+
+#: simple-custom-content.php:468
+msgid "Limit custom content to WP Posts (i.e., Post Type = \"post\")"
+msgstr ""
+
+#: simple-custom-content.php:472
+msgid "Allow custom content on WP Pages (i.e., Post Type = \"page\")"
+msgstr ""
+
+#: simple-custom-content.php:476
+msgid "Display custom content in excerpts instead of content"
+msgstr ""
+
+#: simple-custom-content.php:481
+msgid "RSS Feeds"
+msgstr ""
+
+#: simple-custom-content.php:482
+msgid "Add some custom content for your feeds. You may use text and markup."
+msgstr ""
+
+#: simple-custom-content.php:503
+msgid "Display custom content only in feed excerpts"
+msgstr ""
+
+#: simple-custom-content.php:508 simple-custom-content.php:536 
+#: simple-custom-content.php:555
+msgid "Save Settings"
+msgstr ""
+
+#: simple-custom-content.php:516
+msgid ""
+"In this section you can define shortcodes to add custom content to "
+"individual WP Posts and/or RSS Feeds. Check out the"
+msgstr ""
+
+#: simple-custom-content.php:520
+msgid "Shortcode for specific posts"
+msgstr ""
+
+#: simple-custom-content.php:521 simple-custom-content.php:525 
+#: simple-custom-content.php:529 simple-custom-content.php:533
+msgid "Add some custom content (text/markup) to display for the"
+msgstr ""
+
+#: simple-custom-content.php:521 simple-custom-content.php:525 
+#: simple-custom-content.php:529 simple-custom-content.php:533
+msgid "shortcode."
+msgstr ""
+
+#: simple-custom-content.php:524
+msgid "Shortcode for specific feeds"
+msgstr ""
+
+#: simple-custom-content.php:528
+msgid "Shortcode for posts and feeds"
+msgstr ""
+
+#: simple-custom-content.php:532
+msgid "Bonus shortcode for anywhere"
+msgstr ""
+
+#: simple-custom-content.php:541
+msgid "Restore Defaults"
+msgstr ""
+
+#: simple-custom-content.php:545
+msgid "Restore default options upon plugin deactivation/reactivation."
+msgstr ""
+
+#: simple-custom-content.php:549
+msgid "Tip:"
+msgstr ""
+
+#: simple-custom-content.php:550
+msgid "leave this option unchecked to remember your settings."
+msgstr ""
+
+#: simple-custom-content.php:551
+msgid ""
+"Or, to go ahead and restore all default options, check the box, save your "
+"settings, and then deactivate/reactivate the plugin."
+msgstr ""
+
+#: simple-custom-content.php:560
+msgid "Show Support"
+msgstr ""
+
+#: simple-custom-content.php:572
+msgid "by"
+msgstr ""
+
+#: simple-custom-content.php:573
+msgid "Jeff Starr on Twitter"
+msgstr ""
+
+#: simple-custom-content.php:574
+msgid "Obsessive Web Design &amp; Development"
+msgstr ""
+
+#: simple-custom-content.php:584
+msgid ""
+"Are you sure you want to restore all default options? (this action cannot be "
+"undone)"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easily add custom content to your WP Posts and RSS Feeds."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://perishablepress.com/simple-custom-content/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jeff Starr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://plugin-planet.com/"
+msgstr ""
